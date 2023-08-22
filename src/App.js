@@ -82,14 +82,14 @@ function App() {
     firstName: "Ray",
     lastName: "Lewis",
     team: " Baltimore Ravens",
-    image: 'images/player1.jpeg',
+    image: './images/player1.jpeg',
     gradYear: 2018
   }, {
     id:nanoid(),
     firstName: "Dan",
     lastName: "Marino",
     team: "Miami Dolphins",
-    image: 'images/player2.jpeg',
+    image: './images/player2.jpeg',
     gradYear: 2005
   }, {
     id:nanoid(),
@@ -145,7 +145,7 @@ function App() {
     firstName: "Jim",
     lastName: "Brown",
     team: "Cleveland Browns",
-    image: 'images/player10.jpeg',
+    image: './images/player10.jpeg',
     gradYear: 1971
   }];
 
